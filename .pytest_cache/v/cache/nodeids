@@ -1,0 +1,8 @@
+[
+  "tests/test_financemanager.py::TestFinanceManager::test_getExpensesGroupbyCategory",
+  "tests/test_financemanager.py::TestFinanceManager::test_getExpensesPerCategory",
+  "tests/test_financemanager.py::TestFinanceManager::test_getTransactionForCategory",
+  "tests/test_utils.py::TestUtil::()::test_createDir",
+  "tests/test_utils.py::TestUtil::()::test_fileExists",
+  "tests/test_utils.py::TestUtil::()::test_touchFile"
+]

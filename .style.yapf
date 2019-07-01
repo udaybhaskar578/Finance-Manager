@@ -1,0 +1,9 @@
+[style]
+based_on_style = pep8
+spaces_before_comment = 2
+split_before_logical_operator = true
+COLUMN_LIMIT = 80
+DEDENT_CLOSING_BRACKETS = false
+EACH_DICT_ENTRY_ON_SEPARATE_LINE = true
+SPLIT_BEFORE_DOT = true
+SPACES_AROUND_DEFAULT_OR_NAMED_ASSIGN = false
